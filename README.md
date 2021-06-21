@@ -1,10 +1,11 @@
 # BibleRecitation
 
 ## 联系我
-电话 （美国）502-783-6685
-邮箱  BibleRecitation2020@gmail.com
 
-圣经背诵App
+- 电话 （美国）502-783-6685
+- 邮箱  BibleRecitation2020@gmail.com
+
+## 圣经背诵App
 
 
 
