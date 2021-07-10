@@ -18,8 +18,15 @@ https://user-images.githubusercontent.com/195719/120224667-e0ff6a80-c211-11eb-8b
 https://user-images.githubusercontent.com/195719/120224693-ea88d280-c211-11eb-857d-a14a4e906e82.mp4
 
 
+# App Store （iOS版）
 
-# 目前只开放Android手机的内测。
+https://apps.apple.com/app/id1570941083 
+
+# Play Store （Android版，谷歌市场）
+
+https://play.google.com/store/apps/details?id=com.johnzhang.biblerecitation
+
+# Android版直接下载
 
 一，下载
 
